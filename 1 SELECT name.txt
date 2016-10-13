@@ -1,0 +1,102 @@
+1 SELECT name
+
+1.
+name
+Yemen
+
+2.
+name
+Turkey
+Germany
+Hungary
+Italy
+Norway
+Vatican City
+Paraguay
+Uruguay
+
+3.
+name
+Luxembourg
+Mexico
+
+4.
+name
+Swaziland
+Thailand
+Finland
+Iceland
+Ireland
+Poland
+Switzerland
+New Zealand
+
+5.
+name
+Cambodia
+Colombia
+Croatia
+
+6.
+name
+Cameroon
+
+7.
+name
+Central African Republic
+Equatorial Guinea
+Madagascar
+Mauritania
+Tanzania
+Afghanistan
+Azerbaijan
+Kazakhstan
+Malaysia
+Saudi Arabia
+United Arab Emirates
+Antigua and Barbuda
+Bahamas
+Jamaica
+Trinidad and Tobago
+Albania
+Bosnia and Herzegovina
+Canada
+Guatemala
+Nicaragua
+Panama
+Australia
+Marshall Islands
+Micronesia, Federated States of
+Papua New Guinea
+Paraguay
+Saint Vincent and the Grenadines
+
+8.
+name
+Ethiopia
+Italy
+
+9.
+name
+Congo, Democratic Republic of
+Congo, Republic of
+Lesotho
+Morocco
+Sao Tomé and Príncipe
+Mongolia
+
+10.
+name
+Chad
+Mali
+Togo
+Iran
+Iraq
+Laos
+Oman
+Cuba
+Fiji
+Peru
+
+
+
